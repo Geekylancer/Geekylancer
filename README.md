@@ -1,9 +1,9 @@
 Namaste 🙏 I am Sagar Bhowal. Welcome to my repository <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-🤵 I am a data analyst professional
-⚡ I love exploring, solving, reading books
-🌱 I’m addicted to learning and growing every day
-💡 I believe data is something which is anywhere and everywhere, that can't be ignored
+- 🤵 I am a data analyst professional
+- ⚡ I love exploring, solving, reading books
+- 🌱 I’m addicted to learning and growing every day
+- 💡 I believe data is something which is anywhere and everywhere, that can't be ignored
 
 
 
