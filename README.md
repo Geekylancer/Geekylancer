@@ -5,7 +5,7 @@ Namaste 🙏 I am Sagar Bhowal. Welcome to my repository <img src="https://media
 - 🌱 I’m addicted to learning and growing every day
 - 💡 I believe data is something which is anywhere and everywhere, that can't be ignored
 
-<img alt="Coder GIF" height=250 width=350 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
+<img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
 
 
