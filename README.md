@@ -16,6 +16,10 @@ Namaste 🙏 I am Sagar Bhowal. Welcome to my repository <img src="https://media
 - 📝 [Resume](https://drive.google.com/file/d/1BQ2qNoym8PCSVTVIHqZpSHwNQ-OcIV1-/view?usp=sharing).
 
 
+<h2>Tech Stack/Tools:</h2>
+
+
+
 
 
 
