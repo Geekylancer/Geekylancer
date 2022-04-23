@@ -18,6 +18,8 @@ Namaste 🙏 I am Sagar Bhowal. Welcome to my repository <img src="https://media
 
 <h2>Tech Stack/Tools:</h2>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geekylancer)](https://github.com/geekylancer/github-readme-stats)
+
 
 
 
