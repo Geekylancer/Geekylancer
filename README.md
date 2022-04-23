@@ -20,6 +20,7 @@ Namaste 🙏 I am Sagar Bhowal. Welcome to my repository <img src="https://media
 
 - <img src="https://icons.iconarchive.com/icons/carlosjj/microsoft-office-2013/256/Excel-icon.png" width="20" height="20"> Microsoft Excel
 - <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="20" height="20"> MySQL
+- <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="20" height="20"> PostgreSQL
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20" height="20"> Python
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="20" height="20"> Power BI
 
