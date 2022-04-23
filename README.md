@@ -26,7 +26,7 @@ Namaste 🙏 I am Sagar Bhowal. Welcome to my repository <img src="https://media
 
 
 
-[![Sagar's github stats](https://github-readme-stats.vercel.app/api?username=geekylancer&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/geekylancer/github-readme-stats)
+[![Sagar's github stats](https://github-readme-stats.vercel.app/api?username=geekylancer&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/geekylancer/github-readme-stats)
 
 
 
