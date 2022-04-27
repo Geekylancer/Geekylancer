@@ -23,6 +23,7 @@ Namaste 🙏 I am Sagar Bhowal. Welcome to my repository <img src="https://media
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="20" height="20"> PostgreSQL
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20" height="20"> Python
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="20" height="20"> Power BI
+- <img src="https://images.squarespace-cdn.com/content/5a4908d949fc2b8e312bdf53/1542464476568-R7HK6STRCVCOQBRE4KVY/databricks_logo.png?content-type=image%2Fpng" width="20" height="20"> Azure Databricks
 
 
 
